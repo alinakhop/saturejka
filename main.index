@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="cs">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Saturejka</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <img src="_materialy/logo.png" alt="">
+      <p>Přijďte se potěšit naši chutnou a originální kuchyní v příjemném a milém prostředí.</p>      </div>
+    </div>
+  </body>
+</html>
